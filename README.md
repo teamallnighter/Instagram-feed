@@ -1,7 +1,5 @@
 # Instagram Feed
 
-![GitHub repo size](https://img.shields.io/github/repo-size/teamallnighter/Instagram-feed?style=for-the-badge)
-
 ![GitHub](https://img.shields.io/github/license/teamallnighter/instagram-feed)
 
 ![screenshot](screenshot.png)
