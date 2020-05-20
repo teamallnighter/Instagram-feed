@@ -6,5 +6,7 @@
 - Keys
 - Frameworks
 
-[My Homepage](https://chrisconnelly.dev)
+[Demo](https://vcad.chrisconnelly.ca/instagram)
+
+[My Homepage](https://chrisconnelly.dev) | 
 [Portfolio](https://portfolio.chrisconnelly.dev)
